@@ -2,9 +2,10 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/laforetmoreno)](https://github.com/antoniomesquita09)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moreno-andrade/)](https://www.linkedin.com/in/antonio-mesquita-b51aa6183/)
 
-# Moreno Andrade
-
+# Moreno Andrade 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 Technology lover and always looking for the best frameworks to build incredible things.
 
