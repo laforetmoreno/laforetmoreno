@@ -3,3 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moreno-andrade/)](https://www.linkedin.com/in/antonio-mesquita-b51aa6183/)
 
 # Moreno Andrade
+
+Technology lover and always looking for the best frameworks to build incredible things.
+
+#foodlover
