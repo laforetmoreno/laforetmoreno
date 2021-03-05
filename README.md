@@ -4,6 +4,8 @@
 
 # Moreno Andrade
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 Technology lover and always looking for the best frameworks to build incredible things.
 
 ### 🛠 &nbsp;Tech Stack
