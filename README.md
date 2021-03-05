@@ -19,3 +19,5 @@ Technology lover and always looking for the best frameworks to build incredible 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+![Moreno's github stats](https://github-readme-stats.vercel.app/api?username=laforetmoreno&theme=gruvbox&show_icons=true)
