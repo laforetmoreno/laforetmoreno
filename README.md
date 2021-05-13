@@ -1,6 +1,6 @@
 ![Profile Visitors](https://komarev.com/ghpvc/?username=laforetmoreno&color=brightgreen&style=flat)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/laforetmoreno)](https://github.com/antoniomesquita09)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moreno-andrade/)](https://www.linkedin.com/in/antonio-mesquita-b51aa6183/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/laforetmoreno)](https://github.com/laforetmoreno)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moreno-andrade/)](https://www.linkedin.com/in/moreno-andrade/)
 [![Gmail Badge](https://img.shields.io/badge/-laforetmoreno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laforetmoreno@gmail.com)](mailto:laforetmoreno@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521994156023&text=Hi!)](https://api.whatsapp.com/send?phone=5521994156023&text=Hi!)
 
